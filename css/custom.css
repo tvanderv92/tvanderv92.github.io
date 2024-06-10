@@ -1,0 +1,22 @@
+.menu-section {
+    margin-bottom: 20px;
+}
+
+.menu-section h2 {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.menu-section p {
+    margin: 5px 0;
+    font-style: italic;
+}
+
+.menu-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.menu-section ul li {
+    margin: 5px 0;
+}
